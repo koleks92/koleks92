@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @koleks92
-- 👀 I’m interested in swimming, cinematography, music and learning new languages(not only programming :)
-- 🌱 I’m currently learning Python, JavaScript, C++ and C
-- 💞️ I’m looking to collaborate on don't know yet, inspire me with something
-- 📫 How to reach me: i guess here :)
+💻 I’m a developer passionate about building web and mobile applications, working with both frontend and backend technologies.
+
+🐍 I mostly code in Python, JavaScript, and TypeScript — but I still enjoy exploring other languages like C++ and C.
+
+🎬 Outside of coding, I’m into swimming, cinematography, and music, and I love learning new languages (not just programming ones!).
+
+🚀 Currently improving my full-stack skills and looking to collaborate on something creative — inspire me!
+
+📫 You can reach me here on GitHub.
 
 <!---
 koleks92/koleks92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
